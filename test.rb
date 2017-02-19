@@ -1,1 +1,2 @@
 Branching in a Nutshell
+SWITCHING BRANCHES CHANGES FILES
